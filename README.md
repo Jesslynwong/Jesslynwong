@@ -10,6 +10,4 @@ Hello，我是Jesslyn，一名热爱技术de前端工程师
 - 热爱探索，好奇心和热爱驱动型人格 oh yeah!!!
 
 ### Explore✨✨✨
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jesslynwong&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesslynwong&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jesslynwong&show_icons=true&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)](https://github.com/anuraghazra/github-readme-stats)<br>
